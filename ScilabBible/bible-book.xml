@@ -1,0 +1,67 @@
+<?xml version="1.0" ?>
+<library><book>Genesis</books><abbreviations>Gen</abbreviations></library>
+<library><book>Exodus</books><abbreviations>Ex</abbreviations></library>
+<library><book>Leviticus</books><abbreviations>Lev</abbreviations></library>
+<library><book>Numbers</books><abbreviations>Num</abbreviations></library>
+<library><book>Deuteronomy</books><abbreviations>Deut</abbreviations></library>
+<library><book>Joshua</books><abbreviations>Josh</abbreviations></library>
+<library><book>Judges</books><abbreviations>Judg</abbreviations></library>
+<library><book>Ruth</books><abbreviations>Rut</abbreviations></library>
+<library><book>1 Samuel</books><abbreviations>1Sam</abbreviations></library>
+<library><book>2 Samuel</books><abbreviations>2Sam</abbreviations></library>
+<library><book>1 Kings</books><abbreviations>1Ki</abbreviations></library>
+<library><book>2 Kings</books><abbreviations>2Ki</abbreviations></library>
+<library><book>1 Chronicles</books><abbreviations>1Chron</abbreviations></library>
+<library><book>2 Chronicles</books><abbreviations>2Chron</abbreviations></library>
+<library><book>Ezra</books><abbreviations>Ezr</abbreviations></library>
+<library><book>Nehemiah</books><abbreviations>Neh</abbreviations></library>
+<library><book>Esther</books><abbreviations>Est</abbreviations></library>
+<library><book>Job</books><abbreviations>Jo</abbreviations></library>
+<library><book>Psalms</books><abbreviations>Ps</abbreviations></library>
+<library><book>Proverbs</books><abbreviations>Prov</abbreviations></library>
+<library><book>Ecclesiastes</books><abbreviations>Eccles</abbreviations></library>
+<library><book>Song of Solomon</books><abbreviations>Song</abbreviations></library>
+<library><book>Isaiah</books><abbreviations>Isa</abbreviations></library>
+<library><book>Jeremiah</books><abbreviations>Jer</abbreviations></library>
+<library><book>Lamentations</books><abbreviations>Lam</abbreviations></library>
+<library><book>Ezekiel</books><abbreviations>Ezek</abbreviations></library>
+<library><book>Daniel</books><abbreviations>Dan</abbreviations></library>
+<library><book>Hosea</books><abbreviations>Hos</abbreviations></library>
+<library><book>Joel</books><abbreviations>Joe</abbreviations></library>
+<library><book>Amos</books><abbreviations>Amo</abbreviations></library>
+<library><book>Obadiah</books><abbreviations>Obad</abbreviations></library>
+<library><book>Jonah</books><abbreviations>Jon</abbreviations></library>
+<library><book>Micah</books><abbreviations>Mic</abbreviations></library>
+<library><book>Nahum</books><abbreviations>Nah</abbreviations></library>
+<library><book>Habakkuk</books><abbreviations>Hab</abbreviations></library>
+<library><book>Zephaniah</books><abbreviations>Zeph</abbreviations></library>
+<library><book>Haggai</books><abbreviations>Hag</abbreviations></library>
+<library><book>Zechariah</books><abbreviations>Zech</abbreviations></library>
+<library><book>Malachi</books><abbreviations>Mal</abbreviations></library>
+<library><book>Matthew</books><abbreviations>Matt</abbreviations></library>
+<library><book>Mark</books><abbreviations>Mar</abbreviations></library>
+<library><book>Luke</books><abbreviations>Luk</abbreviations></library>
+<library><book>John</books><abbreviations>Jn</abbreviations></library>
+<library><book>Acts</books><abbreviations>Act</abbreviations></library>
+<library><book>Romans</books><abbreviations>Rom</abbreviations></library>
+<library><book>1 Corinthians</books><abbreviations>1Cor</abbreviations></library>
+<library><book>2 Corinthians</books><abbreviations>2Cor</abbreviations></library>
+<library><book>Galatians</books><abbreviations>Gal</abbreviations></library>
+<library><book>Ephesians</books><abbreviations>Eph</abbreviations></library>
+<library><book>Philippians</books><abbreviations>Phil</abbreviations></library>
+<library><book>Colossians</books><abbreviations>Col</abbreviations></library>
+<library><book>1 Thessalonians</books><abbreviations>1Thess</abbreviations></library>
+<library><book>2 Thessalonians</books><abbreviations>2Thess</abbreviations></library>
+<library><book>1 Timothy</books><abbreviations>1Tim</abbreviations></library>
+<library><book>2 Timothy</books><abbreviations>2Tim</abbreviations></library>
+<library><book>Titus</books><abbreviations>Tit</abbreviations></library>
+<library><book>Philemon</books><abbreviations>Philemon</abbreviations></library>
+<library><book>Hebrews</books><abbreviations>Heb</abbreviations></library>
+<library><book>James</books><abbreviations>James</abbreviations></library>
+<library><book>1 Peter</books><abbreviations>1Pet</abbreviations></library>
+<library><book>2 Peter</books><abbreviations>2Pet</abbreviations></library>
+<library><book>1 John</books><abbreviations>1Jn</abbreviations></library>
+<library><book>2 John</books><abbreviations>2Jn</abbreviations></library>
+<library><book>3 John</books><abbreviations>3Jn</abbreviations></library>
+<library><book>Jude</books><abbreviations>Jude</abbreviations></library>
+<library><book>Revelation</books><abbreviations>Rev</abbreviations></library>
