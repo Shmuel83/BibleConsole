@@ -1,0 +1,493 @@
+<?xml version="1.0" ?>
+<bible-versions>
+	<version>
+		<name>German: Elberfelder (1871)</name>
+		<code>elberfelder</code>
+		<language>deu</language>
+	</version>
+	<version>
+		<name>French: Ostervald (1996 revision) </name>
+		<code>ostervald</code>
+		<language>fra</language>
+	</version>
+	<version>
+		<name>Norwegian: Det Norsk Bibelselskap (1930) </name>
+		<code>bibelselskap</code>
+		<language>nor</language>
+	</version>
+	<version>
+		<name>Chinese: Union (Traditional) </name>
+		<code>union-traditional</code>
+		<language>zho</language>
+	</version>
+	<version>
+		<name>Croatian </name>
+		<code>croatia</code>
+		<language>hrv</language>
+	</version>
+	<version>
+		<name>Latin: Nova Vulgata </name>
+		<code>newvulgate</code>
+		<language>lat</language>
+	</version>
+	<version>
+		<name>Hebrew OT: WLC (Consonants Only) </name>
+		<code>wlc-novowels</code>
+		<language>heb</language>
+	</version>
+	<version>
+		<name>Hebrew OT: BHS (Consonants &amp; Vowels) </name>
+		<code>bhs</code>
+		<language>heb</language>
+	</version>
+	<version>
+		<name>German: Luther (1912) </name>
+		<code>luther1912</code>
+		<language>deu</language>
+	</version>
+	<version>
+		<name>Korean </name>
+		<code>korean</code>
+		<language>kor</language>
+	</version>
+	<version>
+		<name>Esperanto </name>
+		<code>esperanto</code>
+		<language>epo</language>
+	</version>
+	<version>
+		<name>Manx Gaelic</name>
+		<code>manxgaelic</code>
+		<language>glv</language>
+	</version>
+	<version>
+		<name>Hebrew OT: Aleppo Codex </name>
+		<code>aleppo</code>
+		<language>heb</language>
+	</version>
+	<version>
+		<name>King James Version </name>
+		<code>kjv</code>
+		<language>eng</language>
+	</version>
+	<version>
+		<name>Turkish</name>
+		<code>turkish</code>
+		<language>tur</language>
+	</version>
+	<version>
+		<name>Afrikaans 1953 </name>
+		<code>afrikaans</code>
+		<language>afr</language>
+	</version>
+	<version>
+		<name>Amharic NT</name>
+		<code>amharic</code>
+		<language>amh</language>
+	</version>
+	<version>
+		<name>Scots Gaelic (Gospel of Mark) </name>
+		<code>scotsgaelic</code>
+		<language>gla</language>
+	</version>
+	<version>
+		<name>Hebrew OT: BHS (Consonants Only) </name>
+		<code>bhs-novowels</code>
+		<language>heb</language>
+	</version>
+	<version>
+		<name>Spanish: Reina Valera (1909) </name>
+		<code>rv1909</code>
+		<language>spa</language>
+	</version>
+	<version>
+		<name>Coptic: Bohairic NT </name>
+		<code>bohairic</code>
+		<language>cop</language>
+	</version>
+	<version>
+		<name>Russian: Synodal Translation (1876) </name>
+		<code>synodal</code>
+		<language>rus</language>
+	</version>
+	<version>
+		<name>Romanian: Cornilescu </name>
+		<code>cornilescu</code>
+		<language>rum</language>
+	</version>
+	<version>
+		<name>Georgian (Gospels, Acts, James) </name>
+		<code>georgian</code>
+		<language>geo</language>
+	</version>
+	<version>
+		<name>Greek NT: Textus Receptus (1550/1894) [Parsed]</name>
+		<code>textus-parsed</code>
+		<language>grc</language>
+	</version>
+	<version>
+		<name>German: Luther (1545) </name>
+		<code>luther1545</code>
+		<language>deu</language>
+	</version>
+	<version>
+		<name>Greek NT: Westcott/Hort, UBS4 variants </name>
+		<code>westcott</code>
+		<language>grc</language>
+	</version>
+	<version>
+		<name>German: Schlachter (1951) </name>
+		<code>schlachter</code>
+		<language>deu</language>
+	</version>
+	<version>
+		<name>Spanish: Reina Valera NT (1858) </name>
+		<code>rv1858</code>
+		<language>spa</language>
+	</version>
+	<version>
+		<name>Danish </name>
+		<code>danish</code>
+		<language>dan</language>
+	</version>
+	<version>
+		<name>Tamajaq Portions </name>
+		<code>tamajaq</code>
+		<language>tmh</language>
+	</version>
+	<version>
+		<name>Peshitta </name>
+		<code>peshitta</code>
+		<language>arc</language>
+	</version>
+	<version>
+		<name>Coptic: New Testament </name>
+		<code>coptic</code>
+		<language>cop</language>
+	</version>
+	<version>
+		<name>Chamorro (Psalms, Gospels, Acts) </name>
+		<code>chamorro</code>
+		<language>cha</language>
+	</version>
+	<version>
+		<name>Kabyle: NT </name>
+		<code>kabyle</code>
+		<language>kab</language>
+	</version>
+	<version>
+		<name>Greek NT: Byzantine/Majority Text (2000) [Parsed] </name>
+		<code>byzantine-parsed</code>
+		<language>grc</language>
+	</version>
+	<version>
+		<name>Smith &amp; Van Dyke </name>
+		<code>smith-vandyke</code>
+		<language>ara</language>
+	</version>
+	<version>
+		<name>Ukrainian: NT (P.Kulish, 1871) </name>
+		<code>ukranian</code>
+		<language>ukr</language>
+	</version>
+	<version>
+		<name>Turkish: NT (1987, 1994) </name>
+		<code>turkish</code>
+		<language>tur</language>
+	</version>
+	<version>
+		<name>French: Martin (1744) </name>
+		<code>martin</code>
+		<language>fre</language>
+	</version>
+	<version>
+		<name>Greek OT: LXX [A] Accented Roots &amp; Parsing </name>
+		<code>lxx-parsed</code>
+		<language>grc</language>
+	</version>
+	<version>
+		<name>Russian: Makarij Translation (Pentateuch) (1825) </name>
+		<code>makarij</code>
+		<language>rus</language>
+	</version>
+	<version>
+		<name>Czech NKB</name>
+		<code>nkb</code>
+		<language>cze</language>
+	</version>
+	<version>
+		<name>Greek OT: LXX [A] Accented </name>
+		<code>lxx</code>
+		<language>grc</language>
+	</version>
+	<version>
+		<name>Czech KMS </name>
+		<code>kms</code>
+		<language>cze</language>
+	</version>
+	<version>
+		<name>Czech BKR </name>
+		<code>bkr</code>
+		<language>cze</language>
+	</version>
+	<version>
+		<name>Latin: Vulgata Clementina </name>
+		<code>vulgate</code>
+		<language>lat</language>
+	</version>
+	<version>
+		<name>Spanish: Sagradas Escrituras (1569) </name>
+		<code>sagradas</code>
+		<language>spa</language>
+	</version>
+	<version>
+		<name>Hebrew: Modern </name>
+		<code>modernhebrew</code>
+		<language>heb</language>
+	</version>
+	<version>
+		<name>Armenian (Eastern): (Genesis, Exodus, Gospels) </name>
+		<code>easternarmenian</code>
+		<language>arm</language>
+	</version>
+	<version>
+		<name>Greek OT: LXX [A] Unaccented Roots &amp; Parsing </name>
+		<code>lxx-parsed-noaccents</code>
+		<language>grc</language>
+	</version>
+	<version>
+		<name>Estonian </name>
+		<code>estonian</code>
+		<language>est</language>
+	</version>
+	<version>
+		<name>Albanian </name>
+		<code>albanian</code>
+		<language>sqi</language>
+	</version>
+	<version>
+		<name>Dutch Staten Vertaling </name>
+		<code>statenvertaling</code>
+		<language>nld</language>
+	</version>
+	<version>
+		<name>Chinese: Union (Simplified) </name>
+		<code>union-simplified</code>
+		<language>zho</language>
+	</version>
+	<version>
+		<name>Greek NT: Textus Receptus (1550/1894) </name>
+		<code>textusreceptus</code>
+		<language>grc</language>
+	</version>
+	<version>
+		<name>Wolof NT </name>
+		<code>wolof</code>
+		<language>wol</language>
+	</version>
+	<version>
+		<name>Finnish: Pyhä Raamattu (1992) </name>
+		<code>pyharaamattu</code>
+		<language>fin</language>
+	</version>
+	<version>
+		<name>Chinese: NCV (Traditional) </name>
+		<code>chinese-ncv-traditio</code>
+		<language>zho</language>
+	</version>
+	<version>
+		<name>Finnish: Bible (1776) </name>
+		<code>finnish1776</code>
+		<language>fin</language>
+	</version>
+	<version>
+		<name>Russian: Victor Zhuromsky NT </name>
+		<code>zhuromsky</code>
+		<language>rus</language>
+	</version>
+	<version>
+		<name>Douay-Rheims </name>
+		<code>douayrheims</code>
+		<language>eng</language>
+	</version>
+	<version>
+		<name>Gothic (Nehemiah, NT Portions)</name>
+		<code>gothic</code>
+		<language>got</language>
+	</version>
+	<version>
+		<name>Coptic: Sahidic NT </name>
+		<code>sahidic</code>
+		<language>cop</language>
+	</version>
+	<version>
+		<name>Greek: Modern </name>
+		<code>moderngreek</code>
+		<language>gre</language>
+	</version>
+	<version>
+		<name>Greek NT: Westcott/Hort, UBS4 variants [Parsed] </name>
+		<code>westcott-parsed</code>
+		<language>grc</language>
+	</version>
+	<version>
+		<name>Breton Gospels </name>
+		<code>breton</code>
+		<language>bre</language>
+	</version>
+	<version>
+		<name>Hebrew OT: Westminster Leningrad Codex</name>
+		<code>wlc</code>
+		<language>heb</language>
+	</version>
+	<version>
+		<name>Armenian (Western): NT </name>
+		<code>westernarmenian</code>
+		<language>arm</language>
+	</version>
+	<version>
+		<name>French: Louis Segond (1910) </name>
+		<code>ls1910</code>
+		<language>fre</language>
+	</version>
+	<version>
+		<name>Hebrew OT: WLC (Consonants &amp; Vowels) </name>
+		<code>wlc2</code>
+		<language>heb</language>
+	</version>
+	<version>
+		<name>Uma NT </name>
+		<code>uma</code>
+		<language>ppk</language>
+	</version>
+	<version>
+		<name>German: Elberfelder (1905) </name>
+		<code>elberfelder1905</code>
+		<language>ger</language>
+	</version>
+	<version>
+		<name>Greek OT: LXX [A] Unaccented </name>
+		<code>lxx-noaccents</code>
+		<language>grc</language>
+	</version>
+	<version>
+		<name>Latvian New Testament</name>
+		<code>latvian</code>
+		<language>lav</language>
+	</version>
+	<version>
+		<name>Xhosa </name>
+		<code>xhosa</code>
+		<language>xho</language>
+	</version>
+	<version>
+		<name>Swedish (1917) </name>
+		<code>swedish</code>
+		<language>swe</language>
+	</version>
+	<version>
+		<name>Italian: Riveduta Bible (1927)</name>
+		<code>riveduta</code>
+		<language>ita</language>
+	</version>
+	<version>
+		<name>Basque (Navarro-Labourdin): NT</name>
+		<code>basque</code>
+		<language>baq</language>
+	</version>
+	<version>
+		<name>Myanmar/Burmese: Judson (1835) </name>
+		<code>judson</code>
+		<language>bur</language>
+	</version>
+	<version>
+		<name>Greek NT: Byzantine/Majority Text (2000) </name>
+		<code>byzantine</code>
+		<language>grc</language>
+	</version>
+	<version>
+		<name>French: Darby </name>
+		<code>darby</code>
+		<language>fre</language>
+	</version>
+	<version>
+		<name>Portuguese: Almeida Atualizada </name>
+		<code>almeida</code>
+		<language>por</language>
+	</version>
+	<version>
+		<name>Lithuanian </name>
+		<code>lithuanian</code>
+		<language>lit</language>
+	</version>
+	<version>
+		<name>Italian: Giovanni Diodati Bible (1649) </name>
+		<code>giovanni</code>
+		<language>ita</language>
+	</version>
+	<version>
+		<name>Thai: from KJV </name>
+		<code>thai</code>
+		<language>tha</language>
+	</version>
+	<version>
+		<name>Greek NT: Tischendorf 8th Ed. </name>
+		<code>tischendorf</code>
+		<language>grc</language>
+	</version>
+	<version>
+		<name>Tagalog: Ang Dating Biblia (1905) </name>
+		<code>tagalog</code>
+		<language>tgl</language>
+	</version>
+	<version>
+		<name>Finnish: Pyhä Raamattu (1933/1938) </name>
+		<code>pyharaamattu1933</code>
+		<language>fin</language>
+	</version>
+	<version>
+		<name>Vietnamese (1934) </name>
+		<code>vietnamese</code>
+		<language>vie</language>
+	</version>
+	<version>
+		<name>Chinese: NCV (Simplified) </name>
+		<code>chinese-ncv-simplifi</code>
+		<language>zho</language>
+	</version>
+	<version>
+		<name>American Standard Version</name>
+		<code>asv</code>
+		<language>eng</language>
+	</version>
+	<version>
+		<name>World English Bible</name>
+		<code>web</code>
+		<language>eng</language>
+	</version>
+	<version>
+		<name>Young's Literal Translation</name>
+		<code>ylt</code>
+		<language>eng</language>
+	</version>
+	<version>
+		<name>American King James Version</name>
+		<code>akjv</code>
+		<language>eng</language>
+	</version>
+	<version>
+		<name>Hebrew Names Version</name>
+		<code>hnv</code>
+		<language>eng</language>
+	</version>
+	<version>
+		<name>New American Standard Bible</name>
+		<code>nasb</code>
+		<language>eng</language>
+	</version>
+	<version>
+		<name>Amplified Bible</name>
+		<code>amplified</code>
+		<language>eng</language>
+	</version>
+</bible-versions>
