@@ -5,18 +5,8 @@ book = input("Book : ","string");
 chapter = input("Chapter : ","string");
 verseStart = input("Verse Start : ","string");
 verseStop = input("Verse Stop : ","string");
-filename = getURL("http://labs.bible.org/api/?passage="+book+"+"+chapter+":"+verseStart+"-"+verseStop+"&type=text&formatting=plain","jsonFile");
-json_eg = mgetl("jsonFile");
-//jsonparser = JSONParse(json_eg);
-//disp(jsonparser.bookname(1)+" "+jsonparser.chapter(1)+":"+jsonparser.verse(1))
-//disp(json_eg);
-//taille = size(jsonparser);
-//for i = 1:taille(2)
-//    printf("%s\n",jsonparser.text(i))
-//end
+
 VERSION = "darby"; //Constante
-//bookEnglish = strsplit(book);
-//sizeWord = size(bookEnglish);
 //--check version--//
 versionBible = htmlRead("bible-versions.xml");
 codeOfBible = xmlXPath(versionBible, "//code");
@@ -31,9 +21,14 @@ for i=1:sizeOfCode(2)
     end
 end
 //--end check version-----//
+
+//Query to find verses
 doc = xmlRead("http://api.preachingcentral.com/bible.php?passage="+book+chapter+":"+verseStart+"-"+verseStop+"&version="+VERSION);
 q = xmlXPath(doc, "//text");
 taille = q.size;
+
+//Display all verses demand by user
 for i = 1:taille
     disp(q.content(i))
 end
+//En of application
