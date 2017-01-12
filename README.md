@@ -1,9 +1,8 @@
 # BibleConsole
-Bible reader in a console for geeks
+Bible reader in a some console (Scilab, cmd console of Windows, Excel,...), application that your used for your job, 'cause you are a geek, and mainly a child of God
 
-Scilab is an application to do many matematical operation. Need to read bible until your work with discretion ? It's possible.
-To read on Scilab, you must used Scilab, internet.
+Some script to read bible. That just reader, simple program. You can improved a lot of that.
 
-Application used API on http://api.preachingcentral.com
-Lot of versions of Bible, some languages are available. See all of bible-versions.xml
-To write the book that you choice, this is "gen" to genese, "Jn" to John to exemple
+My objective that read bible with discretion in my job, without open tab of internet explorator or read of my smartphone, but using application that I used for my job.
+
+This simple scripts allow to play to memrize bible's passage !
