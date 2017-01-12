@@ -7,7 +7,7 @@ verseStart = input("Verse Start : ","string");
 verseStop = input("Verse Stop : ","string");
 
 VERSION = "darby"; //Constante
-//--check version--//
+//--check version (optional))--//
 versionBible = htmlRead("bible-versions.xml");
 codeOfBible = xmlXPath(versionBible, "//code");
 sizeOfCode = size(codeOfBible);
